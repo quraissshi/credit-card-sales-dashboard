@@ -1,8 +1,7 @@
 # Credit-Card-Sales-Dashboard
 Excel dashboard showing credit card sales performance across 6 cities
 
-This project is an Excel-based dashboard that tracks and visualizes credit card sales performance across six cities-
-Delhi, Mumbai, Bangalore, Chennai, Kolkata, and Hyderabad.
+This project is an Excel-based dashboard that tracks and visualizes credit card sales performance across six cities - Delhi, Mumbai, Bangalore, Chennai, Kolkata, and Hyderabad.
 
 ## 📊 Project Overview
 - **Tool Used:** Microsoft Excel  
